@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /toplivefarik.ru
+Allow: /www.toplivefarik.ru

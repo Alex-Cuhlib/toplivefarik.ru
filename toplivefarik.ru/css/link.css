@@ -1,0 +1,21 @@
+.linkTOP {
+  background-color: lightblue;
+  box-shadow: 0 5px 0 darkblue;
+  color: white;
+  padding: 1em 1.5em;
+  position: relative;
+  top: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 10px;
+}
+
+.linkTOP:hover {
+  background-color: #05a5a5;
+  cursor: pointer;
+}
+
+.linkTOP:active {
+  box-shadow: none;
+  top: 15px;
+}
